@@ -1,0 +1,19 @@
+{
+    "name": "TestEditor",
+    "references": [
+        "GUID:dbbfe9ffdeeffd246968d44d80823a2d"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
